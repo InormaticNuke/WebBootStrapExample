@@ -1,0 +1,12 @@
+#BODY{
+    background-color: black;
+}
+
+#icon01{
+    height: 80px;
+}
+
+.carousel-item img{
+    max-height: 200px;
+    object-fit: fill;
+}
